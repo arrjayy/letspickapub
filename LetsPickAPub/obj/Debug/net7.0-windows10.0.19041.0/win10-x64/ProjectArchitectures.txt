@@ -1,0 +1,1 @@
+c:\repos\letspickapub\LetsPickAPub\LetsPickAPub.csproj;x64
